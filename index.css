@@ -1,0 +1,1353 @@
+.css
+.portfolio1,
+.trang-chu {
+  position: relative;
+  font-weight: 500;
+}
+.gioi-thieu,
+.trang-chu {
+  flex: 1;
+  white-space: nowrap;
+}
+.lien-he,
+.portfolio2 {
+  width: 79px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.lien-he {
+  width: 65px;
+  white-space: nowrap;
+}
+.download-c-v {
+  margin: 0;
+  width: 407px;
+  justify-content: flex-start;
+  gap: 0 29px;
+  text-align: center;
+  font-size: 20px;
+  color: orange;
+  font-family: Roboto;
+}
+.about-me,
+.download-c-v,
+.main-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.about-me {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.main-content {
+  width: 1251px;
+  justify-content: flex-start;
+  padding: 0 0 0 4px;
+  box-sizing: border-box;
+}
+.xin-chao-l {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.hai {
+  color: orange;
+}
+.dao-trung-hai-container {
+  margin: 0;
+  position: relative;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.uiux-designer {
+  color: orange;
+}
+.toi-la-uiux-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.custom-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px 0;
+  max-width: 100%;
+}
+.la-sinh-vien,
+.day-la-trang {
+  margin: 0;
+}
+.la-sinh-vien-container {
+  position: relative;
+  font-size: 20px;
+  font-weight: 500;
+}
+.facebook-icon,
+.instagram-icon,
+.tik-tok-icon {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  min-height: 32px;
+}
+.sign-up {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 30px;
+}
+.frame-child {
+  height: 50px;
+  width: 200px;
+  position: relative;
+  border-radius: 5px;
+  background-color: orange;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: none;
+}
+.tai-cv-tai-day {
+  position: relative;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Roboto;
+  color: white;
+  text-align: left;
+  z-index: 1;
+}
+.custom-text-parent,
+.rectangle-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 14px 39px 13px 36px;
+  background-color: orange;
+  border-radius: 5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  white-space: nowrap;
+}
+.rectangle-parent:hover {
+  background-color: #cc7500;
+}
+.custom-text-parent {
+  flex-direction: column;
+  gap: 16.67px 0;
+  min-width: 636px;
+  max-width: 100%;
+}
+.frame-item {
+  height: 399px;
+  width: 401px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.frame-parent,
+.skills-group {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+}
+.skills-group {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 11px 0 11.5px;
+  box-sizing: border-box;
+  text-align: left;
+  color: white;
+  font-family: Roboto;
+}
+.thieu {
+  color: orange;
+}
+.gioi-thieu1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.the-time-machine-book-design-t {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.frame-inner {
+  width: 348px;
+  height: 295px;
+  position: relative;
+  border-radius: 10px;
+  background-color: gainsboro;
+  box-shadow: 0 1px 60px #ffa800;
+  display: none;
+  max-width: 100%;
+}
+.rectangle-icon {
+  height: 99px;
+  width: 99px;
+  position: relative;
+  z-index: 1;
+}
+.vector-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.cac-san-pham,
+.product-design {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.product-design {
+  margin: 0;
+  font-size: inherit;
+  line-height: 42px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.cac-san-pham {
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 500;
+}
+.rectangle-div,
+.rectangle-group {
+  width: 348px;
+  border-radius: 10px;
+  background-color: gainsboro;
+  max-width: 100%;
+}
+.rectangle-group {
+  box-shadow: 0 1px 60px #ffa800;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 41px 18.30000000000001px 62px;
+  box-sizing: border-box;
+  gap: 12px;
+  min-width: 350px;
+}
+.rectangle-div {
+  height: 295px;
+  position: relative;
+  display: none;
+}
+.frame-child1 {
+  height: 99px;
+  width: 99px;
+  position: relative;
+  z-index: 1;
+}
+.vector-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.cac-san-pham1,
+.visual-design {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.visual-design {
+  margin: 0;
+  font-size: inherit;
+  line-height: 42px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.cac-san-pham1 {
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 500;
+}
+.frame-child2,
+.rectangle-container {
+  border-radius: 10px;
+  background-color: gainsboro;
+  max-width: 100%;
+}
+.rectangle-container {
+  width: 348px;
+  box-shadow: 0 1px 60px #ffa800;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 41px 18.30000000000001px 62px;
+  box-sizing: border-box;
+  gap: 12px;
+  min-width: 350px;
+}
+.frame-child2 {
+  width: 350px;
+  height: 295px;
+  position: relative;
+  display: none;
+}
+.frame-child3 {
+  height: 99px;
+  width: 99px;
+  position: relative;
+  z-index: 1;
+}
+.vector-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.art-design,
+.cac-san-pham2 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.art-design {
+  margin: 0;
+  font-size: inherit;
+  line-height: 42px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.cac-san-pham2 {
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 500;
+}
+.group-div {
+  width: 350px;
+  border-radius: 10px;
+  background-color: gainsboro;
+  box-shadow: 0 0 60px #ffa800;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 41px 19.299999999999955px 62px;
+  box-sizing: border-box;
+  gap: 12px;
+  min-width: 350px;
+  max-width: 100%;
+}
+.independence-day-vietnam-poste,
+.product-design-frame {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.product-design-frame {
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: center;
+  font-size: 20px;
+  color: black;
+}
+.independence-day-vietnam-poste {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 50px 0;
+  text-align: left;
+  font-size: 64px;
+  color: white;
+  font-family: Roboto;
+}
+.nang {
+  color: orange;
+}
+.ky-nang {
+  margin: 0;
+  height: 75px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+}
+.ky-nang-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.ky-nang1 {
+  position: relative;
+  font-weight: 600;
+}
+.programming-skills-rectangle {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 5px 0 6px;
+}
+.software-skills-frame-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid white;
+  box-sizing: border-box;
+}
+.software-skills-frame {
+  height: 27px;
+  width: 183px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px 0;
+}
+.software-skills-frame-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  width: 40px;
+  height: 39px;
+  position: relative;
+  object-fit: cover;
+}
+.image-2-icon,
+.image-3-icon {
+  width: 41px;
+  height: 40px;
+}
+.image-3-icon {
+  width: 39px;
+  height: 29px;
+}
+.projects-group-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px 0;
+}
+.frame-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: gainsboro;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.product-design1,
+.rectangle-parent1 {
+  height: 15px;
+  border-radius: 5px;
+}
+.product-design1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: orange;
+  width: 294px;
+  z-index: 1;
+}
+.rectangle-parent1 {
+  align-self: stretch;
+  position: relative;
+  background-color: gainsboro;
+}
+.frame-child5,
+.frame-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+}
+.frame-child5 {
+  background-color: gainsboro;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.frame-child6 {
+  background-color: orange;
+  width: 243px;
+  height: 15px;
+  z-index: 1;
+}
+.frame-child7,
+.rectangle-parent2 {
+  border-radius: 5px;
+  background-color: gainsboro;
+}
+.rectangle-parent2 {
+  align-self: stretch;
+  height: 15px;
+  position: relative;
+}
+.frame-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.frame-child8,
+.rectangle-parent3 {
+  height: 15px;
+  border-radius: 5px;
+}
+.frame-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: orange;
+  width: 294px;
+  z-index: 1;
+}
+.rectangle-parent3 {
+  align-self: stretch;
+  position: relative;
+  background-color: gainsboro;
+}
+.personal-info,
+.social-media-links {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.social-media-links {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  gap: 58px 0;
+}
+.personal-info {
+  flex: 1;
+  padding: 9.5px 0 0;
+  box-sizing: border-box;
+  min-width: 229px;
+}
+.frame-container,
+.personal-info,
+.projects-group-frame-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.projects-group-frame-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0 26px;
+}
+.frame-container {
+  width: 419px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 31px 0;
+  min-width: 419px;
+}
+.ky-nang2 {
+  position: relative;
+  font-weight: 600;
+}
+.personal-statement {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 6px;
+}
+.line-separator1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid white;
+  box-sizing: border-box;
+}
+.knowledge-skills {
+  height: 27px;
+  width: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px 0;
+}
+.portfolio-preview {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.sang-tao {
+  position: relative;
+  font-weight: 600;
+}
+.frame-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: gainsboro;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.facebook-link,
+.rectangle-parent4 {
+  height: 15px;
+  border-radius: 5px;
+}
+.facebook-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: orange;
+  width: 294px;
+  z-index: 1;
+}
+.rectangle-parent4 {
+  align-self: stretch;
+  position: relative;
+  background-color: gainsboro;
+}
+.contact-form-fields,
+.project-title {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.project-title {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+  box-sizing: border-box;
+  min-width: 229px;
+}
+.contact-form-fields {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0 48px;
+}
+.team-work {
+  position: relative;
+  font-weight: 600;
+}
+.frame-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: gainsboro;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.frame-child11,
+.rectangle-parent5 {
+  height: 15px;
+  border-radius: 5px;
+}
+.frame-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: orange;
+  width: 294px;
+  z-index: 1;
+}
+.rectangle-parent5 {
+  align-self: stretch;
+  position: relative;
+  background-color: gainsboro;
+}
+.contact-form-fields-inner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+  box-sizing: border-box;
+  min-width: 229px;
+  max-width: 100%;
+}
+.contact-form-fields1,
+.contact-section,
+.introduction {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0 26px;
+  max-width: 100%;
+}
+.contact-section,
+.introduction {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 50px 0;
+}
+.introduction {
+  gap: 27px 0;
+}
+.giao-tiep {
+  position: relative;
+  font-weight: 600;
+}
+.frame-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: gainsboro;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.contact-group,
+.rectangle-parent6 {
+  height: 15px;
+  border-radius: 5px;
+}
+.contact-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: orange;
+  width: 294px;
+  z-index: 1;
+}
+.rectangle-parent6 {
+  align-self: stretch;
+  position: relative;
+  background-color: gainsboro;
+}
+.book-design-sample {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+  box-sizing: border-box;
+  min-width: 229px;
+  max-width: 100%;
+}
+.instagram-link {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 0 43px;
+}
+.frame-group,
+.instagram-link,
+.line-separator,
+.skills {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.skills {
+  width: 480px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 50px 0;
+  min-width: 480px;
+}
+.frame-group,
+.line-separator {
+  align-self: stretch;
+}
+.line-separator {
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 20px;
+}
+.frame-group {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 50px 0;
+  text-align: left;
+  font-size: 64px;
+  color: white;
+  font-family: Roboto;
+}
+.portfolio3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.portfolio-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.image-4-icon {
+  align-self: stretch;
+  height: 382px;
+  position: relative;
+  border-radius: 5px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.poster-independence-day {
+  position: relative;
+  line-height: 44px;
+  font-weight: 600;
+}
+.contact-text-frame,
+.the-time-machine-book-design-t1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.the-time-machine-book-design-t1 {
+  flex-direction: row;
+  padding: 0 11px 0 11.5px;
+}
+.contact-text-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 515px;
+  flex-direction: column;
+  gap: 45px 0;
+  max-width: 100%;
+}
+.image-5-icon {
+  position: absolute;
+  top: 0;
+  left: 609px;
+  border-radius: 5px;
+  width: 631px;
+  height: 386px;
+  object-fit: cover;
+}
+.the-time-machine {
+  position: absolute;
+  top: 427px;
+  left: 735.5px;
+  line-height: 44px;
+  font-weight: 600;
+}
+.project-title-frame {
+  align-self: stretch;
+  height: 471px;
+  position: relative;
+  max-width: 100%;
+  font-size: 24px;
+  color: white;
+  font-family: Poppins;
+}
+.portfolio-text-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 30px;
+  box-sizing: border-box;
+  gap: 50px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: 64px;
+  color: orange;
+  font-family: Roboto;
+}
+.linh-text-frame-child {
+  align-self: stretch;
+  height: 312px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.project-su23- {
+  position: relative;
+  line-height: 44px;
+  font-weight: 600;
+}
+.project-text-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 77px;
+}
+.linh-text-frame,
+.title-description-frame {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.linh-text-frame {
+  width: 574px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px 0;
+}
+.title-description-frame {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 24px;
+  color: white;
+  font-family: Poppins;
+}
+.he {
+  color: orange;
+}
+.lien-he1,
+.lien-he2 {
+  margin: 0;
+  position: relative;
+  font-size: roboto;
+  font-weight: 600;
+  font-family: roboto;
+}
+.lien-he2 {
+  width: 626px;
+  line-height: 42px;
+  display: inline-block;
+  max-width: 100%;
+}
+.hay-lien-he {
+  align-self: stretch;
+  position: relative;
+  line-height: 27px;
+}
+.title-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.facebook-icon1,
+.nstagram-icon {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 36px;
+  cursor: pointer;
+}
+.social-links {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 24px;
+}
+.contact-info {
+  width: 534px;
+  flex-direction: column;
+  gap: 20px 0;
+  min-width: 320px;
+  max-width: 100%;
+}
+.contact-info,
+.input-field,
+.input-field1,
+.input-fields {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input-field,
+.input-field1 {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: whitesmoke;
+  height: 59px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 16px 24px;
+  box-sizing: border-box;
+  font-family: 20px;
+  font-size: 18px;
+  color: black;
+  min-width: 320px;
+  max-width: 520px;
+}
+.input-fields {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 12px 0;
+}
+.contact {
+  flex: 1;
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 600;
+  font-family: 20px;
+  color: white;
+  text-align: center;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 24px 64px;
+  background-color: black;
+  width: 199px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.button:hover {
+  background-color: #616161;
+}
+.contact-form {
+  margin: 0;
+  width: 520px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px 0;
+  min-width: 320px;
+  max-width: 520px;
+}
+.contact-section-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 4px 0 0;
+  box-sizing: border-box;
+  gap: 20px;
+  font-size: 18px;
+}
+.contact-section-content,
+.contact-section1,
+.lin-h-parent {
+  align-self: stretch;
+  max-width: 100%;
+}
+.contact-section1 {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 42px 24px;
+  box-sizing: border-box;
+  gap: 24px;
+  font-size: 18px;
+  color: black;
+  font-family: Epilogue;
+}
+.lien-he-parent {
+  align-items: center;
+  gap: 50px 0;
+  text-align: left;
+  font-size: 64px;
+  color: white;
+  font-family: Roboto;
+}
+.lien-he-parent,
+.portfolio,
+.product-design-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.product-design-group {
+  align-items: flex-start;
+  gap: 80px 0;
+  max-width: 100%;
+}
+.portfolio {
+  width: 100%;
+  position: relative;
+  background-color: #0d0e16;
+  overflow: hidden;
+  align-items: center;
+  padding: 39px 20px 39px 23px;
+  box-sizing: border-box;
+  gap: 107px 0;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 20px;
+  color: orange;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1125px) {
+  .custom-text-parent,
+  .frame-item {
+    flex: 1;
+  }
+  .frame-parent {
+    flex-wrap: wrap;
+  }
+  .product-design-frame {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .xin-chao-l {
+    font-size: 20px;
+  }
+  .dao-trung-hai-container {
+    font-size: 20px;
+  }
+  .toi-la-uiux-container {
+    font-size: 18px;
+  }
+  .gioi-thieu1 {
+    font-size: 20px;
+  }
+  .group-div,
+  .rectangle-container,
+  .rectangle-group {
+    flex: 1;
+  }
+  .ky-nang {
+    font-size: 20px;
+  }
+  .frame-container,
+  .skills {
+    flex: 1;
+  }
+  .line-separator {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .lien-he1,
+  .portfolio3 {
+    font-size: 18px;
+  }
+  .lien-he2 {
+    font-size: 18px;
+    line-height: 34px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .download-c-v {
+    display: none;
+  }
+  .custom-text-parent {
+    min-width: 100%;
+  }
+  .independence-day-vietnam-poste {
+    gap: 25px 0;
+  }
+  .frame-container {
+    min-width: 100%;
+  }
+  .contact-form-fields {
+    gap: 0 24px;
+  }
+  .contact-section {
+    gap: 25px 0;
+  }
+  .instagram-link {
+    gap: 0 21px;
+  }
+  .skills {
+    min-width: 100%;
+  }
+  .frame-group,
+  .portfolio-text-frame,
+  .skills {
+    gap: 25px 0;
+  }
+  .project-text-frame {
+    padding-left: 38px;
+    padding-right: 38px;
+    box-sizing: border-box;
+  }
+  .title-description {
+    gap: 21px 0;
+  }
+  .contact-form,
+  .input-field,
+  .input-field1 {
+    max-width: 100%;
+  }
+  .lien-he-parent {
+    gap: 25px 0;
+  }
+  .product-design-group {
+    gap: 40px 0;
+  }
+  .portfolio {
+    gap: 53px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .xin-chao-l {
+    font-size: 20px;
+  }
+  .dao-trung-hai-container {
+    font-size: 20px;
+  }
+  .toi-la-uiux-container {
+    font-size: 20px;
+  }
+  .la-sinh-vien-container {
+    font-size: 20px;
+  }
+  .gioi-thieu1 {
+    font-size: 20px;
+  }
+  .product-design {
+    font-size: 20px;
+    line-height: 34px;
+  }
+  .rectangle-group {
+    min-width: 100%;
+  }
+  .visual-design {
+    font-size: 20px;
+    line-height: 34px;
+  }
+  .rectangle-container {
+    min-width: 100%;
+  }
+  .art-design {
+    font-size: 20px;
+    line-height: 34px;
+  }
+  .group-div {
+    min-width: 100%;
+  }
+  .ky-nang {
+    font-size: 20px;
+  }
+  .ky-nang1 {
+    font-size: 20px;
+  }
+  .social-media-links {
+    gap: 29px 0;
+  }
+  .projects-group-frame-parent {
+    flex-wrap: wrap;
+  }
+  .frame-container {
+    gap: 15px 0;
+  }
+  .ky-nang2,
+  .sng-to {
+    font-size: 20px;
+  }
+  .contact-form-fields {
+    flex-wrap: wrap;
+  }
+  .team-work {
+    font-size: 20px;
+  }
+  .contact-form-fields1 {
+    flex-wrap: wrap;
+  }
+  .giao-tiep {
+    font-size: 20px;
+  }
+  .instagram-link {
+    flex-wrap: wrap;
+  }
+  .portfolio3 {
+    font-size: 20px;
+  }
+  .poster-independence-day,
+  .project-su23-,
+  .the-time-machine {
+    font-size: 20px;
+    line-height: 35px;
+  }
+  .lien-he1 {
+    font-size: 18px;
+  }
+  .lien-he2 {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .social-links {
+    flex-wrap: wrap;
+  }
+  .contact {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .contact-section1 {
+    padding-top: 27px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+  .product-design-group {
+    gap: 20px 0;
+  }
+  .portfolio {
+    gap: 27px 0;
+  }
+}
